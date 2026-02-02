@@ -1,0 +1,16 @@
+D:\ITS-Rent-A-Ride-API\Rent-A-Ride.Application\bin\Debug\net8.0\Rent-A-Ride.Application.deps.json
+D:\ITS-Rent-A-Ride-API\Rent-A-Ride.Application\bin\Debug\net8.0\Rent-A-Ride.Application.dll
+D:\ITS-Rent-A-Ride-API\Rent-A-Ride.Application\bin\Debug\net8.0\Rent-A-Ride.Application.pdb
+D:\ITS-Rent-A-Ride-API\Rent-A-Ride.Application\bin\Debug\net8.0\Rent-A-Ride.Domain.dll
+D:\ITS-Rent-A-Ride-API\Rent-A-Ride.Application\bin\Debug\net8.0\Rent-A-Ride.Domain.pdb
+D:\ITS-Rent-A-Ride-API\Rent-A-Ride.Application\obj\Debug\net8.0\Rent-A-Ride.Application.csproj.AssemblyReference.cache
+D:\ITS-Rent-A-Ride-API\Rent-A-Ride.Application\obj\Debug\net8.0\Rent-A-Ride.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITS-Rent-A-Ride-API\Rent-A-Ride.Application\obj\Debug\net8.0\Rent-A-Ride.Application.AssemblyInfoInputs.cache
+D:\ITS-Rent-A-Ride-API\Rent-A-Ride.Application\obj\Debug\net8.0\Rent-A-Ride.Application.AssemblyInfo.cs
+D:\ITS-Rent-A-Ride-API\Rent-A-Ride.Application\obj\Debug\net8.0\Rent-A-Ride.Application.csproj.CoreCompileInputs.cache
+D:\ITS-Rent-A-Ride-API\Rent-A-Ride.Application\obj\Debug\net8.0\Rent-A-Ride.Application.sourcelink.json
+D:\ITS-Rent-A-Ride-API\Rent-A-Ride.Application\obj\Debug\net8.0\Rent-A-R.DDC432AE.Up2Date
+D:\ITS-Rent-A-Ride-API\Rent-A-Ride.Application\obj\Debug\net8.0\Rent-A-Ride.Application.dll
+D:\ITS-Rent-A-Ride-API\Rent-A-Ride.Application\obj\Debug\net8.0\refint\Rent-A-Ride.Application.dll
+D:\ITS-Rent-A-Ride-API\Rent-A-Ride.Application\obj\Debug\net8.0\Rent-A-Ride.Application.pdb
+D:\ITS-Rent-A-Ride-API\Rent-A-Ride.Application\obj\Debug\net8.0\ref\Rent-A-Ride.Application.dll

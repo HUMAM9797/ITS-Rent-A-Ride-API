@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Rent-A-Ride.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Rent-A-Ride.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Rent-A-Ride.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Rent-A-Ride.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Rent-A-Ride.Domain/Rent-A-Ride.Domain.csproj",
+      "msbuildProject": "../Rent-A-Ride.Domain/Rent-A-Ride.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Rent-A-Ride.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\one touch\\.nuget\\packages\\": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\ITS-Rent-A-Ride-API\\Rent-A-Ride.Domain\\Rent-A-Ride.Domain.csproj": {
+              "projectPath": "D:\\ITS-Rent-A-Ride-API\\Rent-A-Ride.Domain\\Rent-A-Ride.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

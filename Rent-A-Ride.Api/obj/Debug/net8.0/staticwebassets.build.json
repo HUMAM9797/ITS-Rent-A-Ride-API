@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0xa/65cbcDsZkSV8OTAbFNC1LDL8MVQKQSdaLdWdCGg=",
+  "Source": "Rent-A-Ride.Api",
+  "BasePath": "_content/Rent-A-Ride.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

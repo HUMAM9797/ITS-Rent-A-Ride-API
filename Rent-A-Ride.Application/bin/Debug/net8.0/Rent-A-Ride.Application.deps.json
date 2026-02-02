@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Rent-A-Ride.Application/1.0.0": {
+        "dependencies": {
+          "Rent-A-Ride.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Rent-A-Ride.Application.dll": {}
+        }
+      },
+      "Rent-A-Ride.Domain/1.0.0": {
+        "runtime": {
+          "Rent-A-Ride.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rent-A-Ride.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Rent-A-Ride.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
