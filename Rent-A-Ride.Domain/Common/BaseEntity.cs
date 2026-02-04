@@ -1,4 +1,4 @@
-namespace Rent_A_Ride.Domain.Entities;
+namespace Rent_A_Ride.Domain.Common;
 
 public abstract class BaseEntity
 {
@@ -6,3 +6,7 @@ public abstract class BaseEntity
     public DateTime CreatedAt { get; set; }
     public DateTime? UpdatedAt { get; set; }
 }
+
+
+
+

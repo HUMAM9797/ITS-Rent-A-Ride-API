@@ -1,3 +1,4 @@
+using Rent_A_Ride.Domain.Common;
 using Rent_A_Ride.Domain.Enums;
 
 namespace Rent_A_Ride.Domain.Entities;
@@ -20,3 +21,8 @@ public class Rental : BaseEntity
 
     public ICollection<RentalAmenity> RentalAmenities { get; set; } = new List<RentalAmenity>();
 }
+
+
+
+
+

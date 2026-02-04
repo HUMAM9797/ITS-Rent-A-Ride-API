@@ -1,4 +1,6 @@
 namespace Rent_A_Ride.Domain.Entities;
+using Rent_A_Ride.Domain.Common;
+
 
 /// <summary>
 /// e.g., "GPS", "Child Seat". Many-to-Many with Rental via RentalAmenity.
@@ -10,3 +12,7 @@ public class Amenity : BaseEntity
 
     public ICollection<RentalAmenity> RentalAmenities { get; set; } = new List<RentalAmenity>();
 }
+
+
+
+

@@ -1,3 +1,4 @@
+using Rent_A_Ride.Domain.Common;
 namespace Rent_A_Ride.Domain.Entities;
 
 /// <summary>
@@ -10,3 +11,8 @@ public class VehicleType : BaseEntity
 
     public ICollection<Vehicle> Vehicles { get; set; } = new List<Vehicle>();
 }
+
+
+
+
+

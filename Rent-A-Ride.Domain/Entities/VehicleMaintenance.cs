@@ -1,3 +1,4 @@
+using Rent_A_Ride.Domain.Common;
 namespace Rent_A_Ride.Domain.Entities;
 
 /// <summary>
@@ -12,3 +13,8 @@ public class VehicleMaintenance : BaseEntity
     public int VehicleId { get; set; }
     public Vehicle Vehicle { get; set; } = null!;
 }
+
+
+
+
+
